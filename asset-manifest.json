@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coder/static/css/main.35f182e0.css",
+    "main.js": "/coder/static/js/main.1a2bce1f.js",
+    "static/media/panoramic.jpg": "/coder/static/media/panoramic.110f8bec3fefe27af529.jpg",
+    "static/media/moto.png": "/coder/static/media/moto.6681dd4753ed097614df.png",
+    "index.html": "/coder/index.html",
+    "main.35f182e0.css.map": "/coder/static/css/main.35f182e0.css.map",
+    "main.1a2bce1f.js.map": "/coder/static/js/main.1a2bce1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35f182e0.css",
+    "static/js/main.1a2bce1f.js"
+  ]
+}
